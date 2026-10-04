@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Appadurai (@vaqm2)
 - 👀 I’m interested in bioinformatics libraries, packages, workflows and alternative models for genome wide associations studies.
-- 🌱 I’m currently employed as a postdoc in statistical genetics with applications towards pscyhiatric genetics, risk scores and health metrics research.
+- 🌱 I’m currently employed as a Scientific Data Engineer at Lundbeck in Copenhagen, DK.
 - 📫 appadurai.vivek@gmail.com
 
 <!---
